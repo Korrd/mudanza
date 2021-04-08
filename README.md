@@ -75,3 +75,14 @@ Vendo todo, ya que me voy del país.
 
 ---
 
+### Monitor LED 28" 4K UHD con Respuesta Rápida SAMSUNG
+  - Modelo y especificaciones: [LU28E590DS/ZB](https://www.samsung.com/uy/monitors/high-resolution/uhd-monitor-28-inch-lu28e590ds-zb/)
+  - Precio
+    - AR$ 40.000.-
+
+  ![Es enorme](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7711.jpg)
+
+  ![You can code forever!](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7712.jpg)
+
+---
+
