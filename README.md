@@ -86,3 +86,13 @@ Vendo todo, ya que me voy del país.
 
 ---
 
+### Microondas Panasonic de 23 Litros con Grill
+  - Modelo y especificaciones: [NN-GT353MRUE](https://www.panasonic.com/my/consumer/kitchen-appliances/cubie-microwave-electric-ovens/microwave-ovens/nn-gt353m.html)
+  - Precio 
+    - AR$ 23.999.-
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7713.jpg)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7714.jpg)
+
+---
