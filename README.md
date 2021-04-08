@@ -23,16 +23,27 @@ Vendo todo, ya que me voy del país.
 ## Muebles
 
 ### Mesa de Living para 6 personas
-  - Dimensiones (Largo x Ancho x Alto): 180 x 90 x 77
+  - Dimensiones (Largo x Ancho): 180 x 90
   - Precio
-    - AR$ 29.999.-
-    - U$D 215.-
+    - AR$ 34.999.-
+    - U$D 255.-
 
   - Hecha de madera de pino, no tiene ni una mancha, ni rayaduras. Está impecable.
 
   ![Mesa_01](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7685.jpg)
   
   ![Mesa_02](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7686.jpg)
+
+---
+
+### Escritorio de madera color caoba
+  - Dimensiones (Largo x Ancho): 180 x 90
+  - Precio
+    - AR$ 31.999.- (*)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7721.jpg)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7722.jpg)
 
 ---
 
@@ -103,3 +114,4 @@ Vendo todo, ya que me voy del país.
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7714.jpg)
 
 ---
+
