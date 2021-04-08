@@ -25,7 +25,7 @@ Vendo todo, ya que me voy del país.
 ### Mesa de Living para 6 personas
   - Dimensiones (Largo x Ancho x Alto): 180 x 90 x 77
   - Precio
-    - AR$ 30.000.-
+    - AR$ 29.999.-
   - Hecha de madera de pino, no tiene ni una mancha, ni rayaduras. Está impecable.
 
   ![Mesa_01](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7685.jpg)
@@ -39,7 +39,7 @@ Vendo todo, ya que me voy del país.
 ### Heladera Samsung Inverter 320LTS
   - Modelo y especificaciones: [RT32K5930](https://www.samsung.com/ar/refrigerators/top-mount-freezer/318l-ez-clean-steel-rt32k5930sl-b3/)
   - Precio
-    - AR$ 75.000.-
+    - AR$ 74.999.-
 
   ![Heladera_01](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7689.jpg)
 
@@ -54,7 +54,7 @@ Vendo todo, ya que me voy del país.
 ### Lavasecarropas de 9kg General Electric
   - Modelo y especificaciones: [LSGE09E09M](https://www.youtube.com/watch?v=Ml4tF85g5zc)
   - Precio
-    - AR$ 55.000.-
+    - AR$ 54.999.-
 
   ![Lavarropas_01](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7698.jpg)
 
@@ -67,7 +67,7 @@ Vendo todo, ya que me voy del país.
 ### TV Smart 40" FullHD Samsung Series 5
   - Modelo y especificaciones: [UN40FH5303GCFV](https://www.samsung.com/us/video/tvs/UN40EH5300FXZA-specs)
   - Precio
-    - AR$ 30.000.-
+    - AR$ 29.999.-
 
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7705.jpg)
 
@@ -78,7 +78,7 @@ Vendo todo, ya que me voy del país.
 ### Monitor LED 28" 4K UHD con Respuesta Rápida SAMSUNG
   - Modelo y especificaciones: [LU28E590DS/ZB](https://www.samsung.com/uy/monitors/high-resolution/uhd-monitor-28-inch-lu28e590ds-zb/)
   - Precio
-    - AR$ 40.000.-
+    - AR$ 39.999.-
 
   ![Es enorme](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7711.jpg)
 
