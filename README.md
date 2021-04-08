@@ -26,6 +26,7 @@ Vendo todo, ya que me voy del país.
   - Dimensiones (Largo x Ancho x Alto): 180 x 90 x 77
   - Precio
     - AR$ 30.000.-
+  - Hecha de madera de pino, no tiene ni una mancha, ni rayaduras. Está impecable.
 
   ![Mesa_01](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7685.jpg)
   
@@ -36,7 +37,7 @@ Vendo todo, ya que me voy del país.
 ## Tecnología
 
 ### Heladera Samsung Inverter 320LTS
-  - Modelo: [RT32K5930](https://www.samsung.com/ar/refrigerators/top-mount-freezer/318l-ez-clean-steel-rt32k5930sl-b3/)
+  - Modelo y especificaciones: [RT32K5930](https://www.samsung.com/ar/refrigerators/top-mount-freezer/318l-ez-clean-steel-rt32k5930sl-b3/)
   - Precio
     - AR$ 75.000.-
 
@@ -51,7 +52,7 @@ Vendo todo, ya que me voy del país.
 ---
 
 ### Lavasecarropas de 9kg General Electric
-  - Modelo: [LSGE09E09M](https://www.youtube.com/watch?v=Ml4tF85g5zc)
+  - Modelo y especificaciones: [LSGE09E09M](https://www.youtube.com/watch?v=Ml4tF85g5zc)
   - Precio
     - AR$ 55.000.-
 
@@ -60,4 +61,17 @@ Vendo todo, ya que me voy del país.
   ![Lavarropas_02](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7699.jpg)
 
   ![Lavarropas_03](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7700.jpg)
+
+---
+
+### TV Smart 40" FullHD Samsung Series 5
+  - Modelo y especificaciones: [UN40FH5303GCFV](https://www.samsung.com/us/video/tvs/UN40EH5300FXZA-specs)
+  - Precio
+    - AR$ 30.000.-
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7705.jpg)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7709.jpg)
+
+---
 
