@@ -8,6 +8,7 @@
     - AR$ 30.000.-
 
   ![Mesa_01](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7685.jpg)
+  
   ![Mesa_02](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7686.jpg)
 
 ---
@@ -23,9 +24,20 @@
 
   ![Heladera_02](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7691.jpg)
 
-  ![Heladera_02](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7692.jpg)
+  ![Heladera_03](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7692.jpg)
 
-  ![Heladera_02](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7693.jpg)
+  ![Heladera_04](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7693.jpg)
 
 ---
+
+### Lavasecarropas de 9kg General Electric
+  - Modelo: [LSGE09E09M](https://www.youtube.com/watch?v=Ml4tF85g5zc)
+  - Precio
+    - AR$ 55.000.-
+
+  ![Lavarropas_01](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7698.jpg)
+
+  ![Lavarropas_02](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7699.jpg)
+
+  ![Lavarropas_03](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7700.jpg)
 
