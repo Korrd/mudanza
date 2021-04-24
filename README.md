@@ -200,3 +200,15 @@ Vendo todo, ya que me voy del país.
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7878.jpg)
 
 ---
+
+### Escalera de Aluminio de 3 Escalones
+
+  - Precio
+    - AR$ 2.999.-
+
+  - Altura: 63cm
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7882.jpg)
+
+---
+
