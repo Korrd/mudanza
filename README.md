@@ -22,6 +22,15 @@ Vendo todo, ya que me voy del país.
 
 ## Muebles
 
+### Mueble Industrial de Madera e Hierro con cuatro cajones (alias, el monumento al nerd)
+  - Dimensiones (Alto x Ancho x Profundo): 200 x 100 x 35
+  - Precio
+    - AR$ 31.999.-
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7880.jpg)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7537.jpg)
+
 ### Mesa de Living para 6 personas
   - Dimensiones (Largo x Ancho): 180 x 90
   - Precio
@@ -151,5 +160,16 @@ Vendo todo, ya que me voy del país.
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7713.jpg)
 
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7714.jpg)
+
+---
+
+### Minivac Phillips
+  - Modelo y especificaciones: [FC6142/01](https://www.philips.com.ar/c-p/FC6142_01/minivac-aspiradora-de-mano)
+  - Precio 
+    - AR$ 7.999.-
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7877.jpg)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7878.jpg)
 
 ---
