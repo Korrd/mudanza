@@ -45,7 +45,7 @@ Vendo todo, ya que me voy del país.
   - Respaldo 
     - Dimensiones (Ancho x Alto): 160 x 140
     - Precio
-      - AR$ 15.999.- (*)
+      - AR$ 15.999.-
 
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7716.jpg)
 
@@ -56,7 +56,7 @@ Vendo todo, ya que me voy del país.
 ### Escritorio de madera color caoba
   - Dimensiones (Largo x Ancho): 180 x 90
   - Precio
-    - AR$ 31.999.- (*)
+    - AR$ 31.999.-
 
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7721.jpg)
 
