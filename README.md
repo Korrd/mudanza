@@ -37,12 +37,12 @@ Vendo todo, ya que me voy del país.
 ---
 
 ### Sommier y Colchon Queen Size + Respaldo de Sommier Queen Size
-  - Sommier y Colchon
+  - **Sommier y Colchon**
     - Dimensiones (Largo x Ancho x Alto): 200 x 160 x 50
     - Precio (Colchón y Sommier)
       - AR$ 34.999.-
 
-  - Respaldo 
+  - **Respaldo** 
     - Dimensiones (Ancho x Alto): 160 x 140
     - Precio
       - AR$ 15.999.-
@@ -50,6 +50,18 @@ Vendo todo, ya que me voy del país.
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7716.jpg)
 
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7718.jpg)
+
+---
+
+### Sillón de dos Cuerpos Felpudito Color Bordeaux
+  - Dimensiones (Largo x Profundo): 180 x 65 
+  - Apoyabrazos de 30cm, usables como mesita
+  - Precio
+    - AR$ 34.999.-
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7719.jpg)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7720.jpg)
 
 ---
 
