@@ -31,6 +31,8 @@ Vendo todo, ya que me voy del país.
 
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7537.jpg)
 
+---
+
 ### Mesa de Living para 6 personas
   - Dimensiones (Largo x Ancho): 180 x 90
   - Precio
