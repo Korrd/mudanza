@@ -36,6 +36,23 @@ Vendo todo, ya que me voy del país.
 
 ---
 
+### Sommier y Colchon Queen Size + Respaldo de Sommier Queen Size
+  - Sommier y Colchon
+    - Dimensiones (Largo x Ancho x Alto): 200 x 160 x 50
+    - Precio (Colchón y Sommier)
+      - AR$ 34.999.-
+
+  - Respaldo 
+    - Dimensiones (Ancho x Alto): 160 x 140
+    - Precio
+      - AR$ 15.999.- (*)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7716.jpg)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7718.jpg)
+
+---
+
 ### Escritorio de madera color caoba
   - Dimensiones (Largo x Ancho): 180 x 90
   - Precio
