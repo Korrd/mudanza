@@ -36,6 +36,16 @@ Vendo todo, ya que me voy del país.
 
 ---
 
+### Set de 6 Sillas
+  - Precio
+    - AR$ 24.999.-
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7875.jpg)
+
+  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7876.jpg)
+
+---
+
 ### Sommier y Colchon Queen Size + Respaldo de Sommier Queen Size
   - **Sommier y Colchon**
     - Dimensiones (Largo x Ancho x Alto): 200 x 160 x 50
@@ -143,4 +153,3 @@ Vendo todo, ya que me voy del país.
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7714.jpg)
 
 ---
-
