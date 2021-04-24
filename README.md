@@ -13,7 +13,7 @@ Vendo todo, ya que me voy del país.
 - El envío va por parte del comprador
   - Se pueden pasar a buscar por Palermo casi colegiales
 - Todas las consultas son bienvenidas por estos medios de contacto
-  - Whatsapp: **+54911 3186 3169**
+  - Whatsapp/Telegram: **+54911 3186 3169**
   - Mail: **victomartin@gmail.com**
 - No, un pull-request no es sinónimo de venta. ;-)
 - Sí, se puede preguntar [abriendo un issue](https://github.com/Korrd/mudanza/issues/new) 
