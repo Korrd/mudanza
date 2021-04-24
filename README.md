@@ -65,7 +65,7 @@ Vendo todo, ya que me voy del país.
 
 ---
 
-### Escritorio de madera color caoba
+### Escritorio de Madera Color Caoba
   - Dimensiones (Largo x Ancho): 180 x 90
   - Precio
     - AR$ 31.999.-
@@ -78,7 +78,7 @@ Vendo todo, ya que me voy del país.
 
 ## Tecnología
 
-### Heladera Samsung Inverter 320LTS
+### Heladera Samsung Inverter 320LTS No-Frost con Dispenser
   - Modelo y especificaciones: [RT32K5930](https://www.samsung.com/ar/refrigerators/top-mount-freezer/318l-ez-clean-steel-rt32k5930sl-b3/)
   - Precio
     - AR$ 74.999.-
