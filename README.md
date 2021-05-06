@@ -22,17 +22,6 @@ Vendo todo, ya que me voy del país.
 
 ## Muebles
 
-### Mueble Industrial de Madera e Hierro con cuatro cajones (alias, el monumento al nerd)
-  - Dimensiones (Alto x Ancho x Profundo): 200 x 100 x 35
-  - Precio
-    - AR$ 31.999.-
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7880.jpg)
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7537.jpg)
-
----
-
 ### Mesa de Living para 6 personas
   - Dimensiones (Largo x Ancho): 180 x 90
   - Precio
@@ -54,18 +43,6 @@ Vendo todo, ya que me voy del país.
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7875.jpg)
 
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7876.jpg)
-
----
-
-### El Puff mas Cómodo del Universo
-  - Precio
-    - AR$ 2.999.-
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7891.jpg)
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7892.jpg)
-
-  - (Cosas de Iron Man no incluídas)
 
 ---
 
@@ -124,48 +101,6 @@ Vendo todo, ya que me voy del país.
 
 ## Tecnología
 
-### Heladera Samsung Inverter 320LTS No-Frost con Dispenser
-  - Modelo y especificaciones: [RT32K5930](https://www.samsung.com/ar/refrigerators/top-mount-freezer/318l-ez-clean-steel-rt32k5930sl-b3/)
-  - Precio
-    - AR$ 74.999.-
-    - U$D 545.-
-
-  ![Heladera_01](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7689.jpg)
-
-  ![Heladera_02](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7691.jpg)
-
-  ![Heladera_03](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7692.jpg)
-
-  ![Heladera_04](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7693.jpg)
-
----
-
-### Lavasecarropas de 9kg General Electric
-  - Modelo y especificaciones: [LSGE09E09M](https://www.youtube.com/watch?v=Ml4tF85g5zc)
-  - Precio
-    - AR$ 54.999.-
-    - U$D 400.-
-
-  ![Lavarropas_01](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7698.jpg)
-
-  ![Lavarropas_02](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7699.jpg)
-
-  ![Lavarropas_03](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7700.jpg)
-
----
-
-### TV Smart 40" FullHD Samsung Series 5
-  - Modelo y especificaciones: [UN40FH5303GCFV](https://www.samsung.com/us/video/tvs/UN40EH5300FXZA-specs)
-  - Precio
-    - AR$ 29.999.-
-    - U$D 215.-
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7705.jpg)
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7709.jpg)
-
----
-
 ### Monitor LED 28" 4K UHD con Respuesta Rápida SAMSUNG
   - Modelo y especificaciones: [LU28E590DS/ZB](https://www.samsung.com/uy/monitors/high-resolution/uhd-monitor-28-inch-lu28e590ds-zb/)
   - Precio
@@ -175,18 +110,6 @@ Vendo todo, ya que me voy del país.
   ![Es enorme](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7711.jpg)
 
   ![You can code forever!](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7712.jpg)
-
----
-
-### Microondas Panasonic de 23 Litros con Grill
-  - Modelo y especificaciones: [NN-GT353MRUE](https://www.panasonic.com/my/consumer/kitchen-appliances/cubie-microwave-electric-ovens/microwave-ovens/nn-gt353m.html)
-  - Precio 
-    - AR$ 23.999.-
-    - U$D 175.-
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7713.jpg)
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7714.jpg)
 
 ---
 
@@ -200,15 +123,3 @@ Vendo todo, ya que me voy del país.
   ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7878.jpg)
 
 ---
-
-### Escalera de Aluminio de 3 Escalones
-
-  - Precio
-    - AR$ 2.999.-
-
-  - Altura: 63cm
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7882.jpg)
-
----
-
