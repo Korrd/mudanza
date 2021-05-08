@@ -46,19 +46,6 @@ Vendo todo, ya que me voy del país.
 
 ---
 
-### Banquitos para los pies
-
-  - Precio (c/u)
-    - AR$ 2.999.-
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7889.jpg)
-
-  ![Image](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7890.jpg)
-
-  - (Cosas de Iron Man no incluídas)
-
----
-
 ### Sommier y Colchon Queen Size + Respaldo de Sommier Queen Size
   - **Sommier y Colchon**
     - Dimensiones (Largo x Ancho x Alto): 200 x 160 x 50
