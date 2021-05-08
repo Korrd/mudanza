@@ -88,18 +88,6 @@ Vendo todo, ya que me voy del país.
 
 ## Tecnología
 
-### Monitor LED 28" 4K UHD con Respuesta Rápida SAMSUNG
-  - Modelo y especificaciones: [LU28E590DS/ZB](https://www.samsung.com/uy/monitors/high-resolution/uhd-monitor-28-inch-lu28e590ds-zb/)
-  - Precio
-    - AR$ 39.999.-
-    - U$D 292.-
-
-  ![Es enorme](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7711.jpg)
-
-  ![You can code forever!](https://raw.githubusercontent.com/Korrd/mudanza/main/assets/img/IMG_7712.jpg)
-
----
-
 ### Minivac Phillips
   - Modelo y especificaciones: [FC6142/01](https://www.philips.com.ar/c-p/FC6142_01/minivac-aspiradora-de-mano)
   - Precio 
